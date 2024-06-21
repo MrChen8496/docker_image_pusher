@@ -4,5 +4,8 @@ mysql
 xhofe/alist:latest
 xiaoyaliu/alist:latest
 oldiy/baidupcs:latest
+amilys/embyserver:latest
+linuxserver/resilio-sync:latest
+alpine:3.18.2
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
