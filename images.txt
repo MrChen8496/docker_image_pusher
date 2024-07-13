@@ -3,7 +3,6 @@ mysql
 #支持私库
 xhofe/alist:latest
 xiaoyaliu/alist:latest
-oldiy/baidupcs:latest
 amilys/embyserver:latest
 linuxserver/resilio-sync:latest
 alpine:3.18.2
